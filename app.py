@@ -385,7 +385,7 @@ if page == "Analytics":
 
     # Model evaluation performance
     mae = 2211.95
-    rmse = 41724794.93
+    rmse = 6459.47
     r2 = 0.98
 
     st.metric(
